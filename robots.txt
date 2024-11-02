@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egoquohu.github.io/Kbo/sitemap_index.txt
+Sitemap: https://egoquohu.github.io/laX/sitemap_index.txt
+Sitemap: https://egoquohu.github.io/oSn/sitemap_index.txt
+Sitemap: https://egoquohu.github.io/rvF/sitemap_index.txt
